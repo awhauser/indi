@@ -1,0 +1,147 @@
+\providecommand*{\mcitethebibliography}{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+{\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{15}
+\providecommand*{\natexlab}[1]{#1}
+\providecommand*{\mciteSetBstSublistMode}[1]{}
+\providecommand*{\mciteSetBstMaxWidthForm}[2]{}
+\providecommand*{\mciteBstWouldAddEndPuncttrue}
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*{\mciteBstWouldAddEndPunctfalse}
+  {\let\EndOfBibitem\relax}
+\providecommand*{\mciteSetBstMidEndSepPunct}[3]{}
+\providecommand*{\mciteSetBstSublistLabelBeginEnd}[3]{}
+\providecommand*{\EndOfBibitem}{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}
+{(\emph{\alph{mcitesubitemcount}})}
+\mciteSetBstSublistLabelBeginEnd{\mcitemaxwidthsubitemform\space}
+{\relax}{\relax}
+
+\bibitem[Rappoport and Furche(2010)]{Rappoport2010}
+D.~Rappoport and F.~Furche, \emph{The Journal of Chemical Physics}, 2010,
+  \textbf{133}, 134105\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Metz \emph{et~al.}(2000)Metz, Stoll, and Dolg]{Metz2000}
+B.~Metz, H.~Stoll and M.~Dolg, \emph{The Journal of Chemical Physics}, 2000,
+  \textbf{113}, 2563–2569\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Werner \emph{et~al.}(2012)Werner, Knowles, Knizia, Manby,
+  {Sch\"{u}tz}, Celani, Korona, Lindh, Mitrushenkov, Rauhut, Shamasundar,
+  Adler, Amos, Bernhardsson, Berning, Cooper, Deegan, Dobbyn, Eckert, Goll,
+  Hampel, Hesselmann, Hetzer, Hrenar, Jansen, K\"oppl, Liu, Lloyd, Mata, May,
+  McNicholas, Meyer, Mura, Nicklass, O'Neill, Palmieri, Peng, Pfl\"uger,
+  Pitzer, Reiher, Shiozaki, Stoll, Stone, Tarroni, Thorsteinsson, and
+  Wang]{MOLPRO}
+H.-J. Werner, P.~J. Knowles, G.~Knizia, F.~R. Manby, M.~{Sch\"{u}tz},
+  P.~Celani, T.~Korona, R.~Lindh, A.~Mitrushenkov, G.~Rauhut, K.~R.
+  Shamasundar, T.~B. Adler, R.~D. Amos, A.~Bernhardsson, A.~Berning, D.~L.
+  Cooper, M.~J.~O. Deegan, A.~J. Dobbyn, F.~Eckert, E.~Goll, C.~Hampel,
+  A.~Hesselmann, G.~Hetzer, T.~Hrenar, G.~Jansen, C.~K\"oppl, Y.~Liu, A.~W.
+  Lloyd, R.~A. Mata, A.~J. May, S.~J. McNicholas, W.~Meyer, M.~E. Mura,
+  A.~Nicklass, D.~P. O'Neill, P.~Palmieri, D.~Peng, K.~Pfl\"uger, R.~Pitzer,
+  M.~Reiher, T.~Shiozaki, H.~Stoll, A.~J. Stone, R.~Tarroni, T.~Thorsteinsson
+  and M.~Wang, \emph{MOLPRO, version 2012.1, a package of ab initio programs},
+  2012, see http://www.molpro.net\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Knowles and Werner(1985)]{Knowles1985}
+P.~J. Knowles and H.-J. Werner, \emph{Chem. Phys. Letters}, 1985, \textbf{115},
+  259--267\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Werner and Knowles(1985)]{Werner1985}
+H.-J. Werner and P.~J. Knowles, \emph{J. Chem. Phys.}, 1985, \textbf{82},
+  5053\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Werner and Knowles(1988)]{WK88}
+H.-J. Werner and P.~J. Knowles, \emph{J. Chem. Phys.}, 1988, \textbf{89},
+  5803--5814\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Knowles and Werner(1992)]{KW92}
+P.~J. Knowles and H.-J. Werner, \emph{Theor. Chem. Acc.}, 1992, \textbf{84},
+  95--103\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Boys} and {Bernardi}(1970)]{boys70}
+S.~F. {Boys} and F.~{Bernardi}, \emph{Molecular Physics}, 1970, \textbf{19},
+  553--566\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ralchenko \emph{et~al.}(2017)Ralchenko, Kramida, Reader, and {NIST ASD
+  Team}]{NIST}
+Y.~Ralchenko, A.~Kramida, J.~Reader and {NIST ASD Team}, \emph{National
+  Institute of Standards and Technology, Gaithersburg, MD}, 2017\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Janzen and Aziz(1997)]{Janzen:1997hv}
+A.~R. Janzen and R.~A. Aziz, \emph{The Journal of Chemical Physics}, 1997,
+  \textbf{107}, 914--919\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Dalfovo \emph{et~al.}(1995)Dalfovo, Lastri, Pricaupenko, Stringari,
+  and Treiner]{Dalfovo:1995gf}
+F.~Dalfovo, A.~Lastri, L.~Pricaupenko, S.~Stringari and J.~Treiner,
+  \emph{Physical Review B}, 1995, \textbf{52}, 1193--1209\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Harms \emph{et~al.}(1998)Harms, Toennies, and
+  Dalfovo]{Harms1998:dropletsize}
+J.~Harms, J.~P. Toennies and F.~Dalfovo, \emph{Phys. Rev. B}, 1998,
+  \textbf{58}, 3341--3350\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Maierhofer \emph{et~al.}(2016)Maierhofer, Bainschab, Thaler, Heim,
+  Ernst, and Koch]{Maierhofer:2016acetone}
+P.~Maierhofer, M.~Bainschab, B.~Thaler, P.~Heim, W.~E. Ernst and M.~Koch,
+  \emph{The Journal of Physical Chemistry A}, 2016, \textbf{120},
+  6418--6423\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Koch \emph{et~al.}(2017)Koch, Heim, Thaler, Kitzler, and
+  Ernst]{koch2017direct}
+M.~Koch, P.~Heim, B.~Thaler, M.~Kitzler and W.~Ernst, \emph{Journal of Physics
+  B: Atomic, Molecular and Optical Physics}, 2017\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Hauser \emph{et~al.}(2015)Hauser, Volk, Thaler, and
+  Ernst]{Hauser:2015cba}
+A.~W. Hauser, A.~Volk, P.~Thaler and W.~E. Ernst, \emph{Physical Chemistry
+  Chemical Physics}, 2015, \textbf{17}, 10805--10812\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}
