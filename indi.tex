@@ -158,14 +158,16 @@ For this study we decided to pick a borderline-element...
 
 \subsection{Ab initio calculation of diatomic potentials}
 \hl{Lieber Ralf, bitte hier alles checken und gegebenenfalls aktualisieren.}
-The potential energy surface of the He-In diatomic molecule, a necessary ingredient for the He-DFT approach discussed below, is calculated for  the $^2\Pi{}_{1/2}$ ground state and the $^2\Sigma{}_{1/2}$ electronically excited state. We use the Def2-QZVPD family of basis sets. \cite{Rappoport2010} For indium, the basis set was combined with the ECP28MDF effective core potential of the Stuttgart/K\"oln group.\cite{Metz2000}  All ab initio calculations are performed with the MOLPRO software package.\cite{MOLPRO}
+The potential energy surface of the He-In diatomic molecule, a necessary ingredient for the He-DFT approach discussed below, is calculated for the $^2\Pi{}$ and $^2\Sigma$ ground state and the $2^2\Sigma{}$ electronically excited state. We use the Def2-QZVPD family of basis sets \cite{Rappoport2010} in combination with the ECP28MDF effective core potential of the Stuttgart/K\"oln group.\cite{Metz2000}  All ab initio calculations are performed with the MOLPRO software package.\cite{MOLPRO}
 
 A combination of multiconfigurational self consistent field calculations (MCSCF\cite{Knowles1985, Werner1985}) and multireference configuration interaction (MRCI\cite{WK88, KW92}) is applied to the diatomic system in order to capture the very weak van der Waals-type binding between He and In. In the MRCI approach, 3 valence electrons are included in the active space. The core orbitals are optimized in the preceding MCSCF treatment, but are kept doubly occupied.
-The active space in the MCSCF and the subsequent computations comprises 3 electrons in 8 shells, with an occupation pattern of (9,4,4,1) `occupied' and (5,2,2,1) `closed' shells in the MOLPRO nomenclature and internal ordering (A$_1$,B$_2$,B$_1$,A$_2$) for the C$_{2v}$ point group. Both He-In curves have been corrected for basis superposition errors due to their significance for the extremely weak attractive interaction in both states.\cite{boys70} The correction gives rise to geometry shifts in the range of about XX~\AA{}. It also reduces the dissociation energies by XX and XX~cm$^{-1}$ in both states, respectively.
+The active space in the MCSCF and the subsequent computations comprises 3 electrons in 8 shells, with an occupation pattern of (9,4,4,1) `occupied' and (5,2,2,1) `closed' shells in the MOLPRO nomenclature and internal ordering (A$_1$,B$_2$,B$_1$,A$_2$) for the C$_{2v}$ point group. All He-In curves have been corrected for basis superposition errors due to their significance for the extremely weak attractive interaction in both states.\cite{boys70} In addition the curves have been basis set extrapolated using a second set of calculations with the Def2-TZVPD basis set family and the extrapolation formula given by Gdanitz \cite{Gdanitz2000} (s = 3/4).
+
+The corrected potentials are used in the SO coupling Breit Pauli Hamiltonian. Giving rise to a total of 4 potential energy curves ($^2\Pi_{1/2}$, $^2\Pi_{3/2} $, $^2\Simga{1/2} $, and $2^2\Sigma_{1/2}$)
 
 \begin{figure}[h!]
   	\begin{center}
- 		\includegraphics[width=0.45\textwidth]{1.eps}
+ 		\includegraphics[width=\columnwidth]{in_pot.eps}
                 \caption{Ab initio PES for the diatomic HeIn molecule in its $^2\Pi{}_{1/2}$ ground and $^2\Sigma{}_{1/2}$ electronically excited state. Both asymptotes have been set to zero energy for a direct comparison of the curvature. The experimental 6s$\leftarrow{}$5p excitation energy for Indium is given by 24 372.957~cm$^{-1}$.\cite{NIST}\label{pic:pes}}
   	\end{center}
 \end{figure}
