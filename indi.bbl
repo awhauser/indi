@@ -1,7 +1,7 @@
 \providecommand*{\mcitethebibliography}{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
 {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{15}
+\begin{mcitethebibliography}{16}
 \providecommand*{\natexlab}[1]{#1}
 \providecommand*{\mciteSetBstSublistMode}[1]{}
 \providecommand*{\mciteSetBstMaxWidthForm}[2]{}
@@ -84,6 +84,13 @@ P.~J. Knowles and H.-J. Werner, \emph{Theor. Chem. Acc.}, 1992, \textbf{84},
 \bibitem[{Boys} and {Bernardi}(1970)]{boys70}
 S.~F. {Boys} and F.~{Bernardi}, \emph{Molecular Physics}, 1970, \textbf{19},
   553--566\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Gdanitz(2000)]{Gdanitz2000}
+R.~J. Gdanitz, \emph{The Journal of Chemical Physics}, 2000, \textbf{113},
+  5145\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
