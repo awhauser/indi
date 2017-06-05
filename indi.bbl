@@ -95,21 +95,6 @@ R.~J. Gdanitz, \emph{The Journal of Chemical Physics}, 2000, \textbf{113},
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Ralchenko \emph{et~al.}(2017)Ralchenko, Kramida, Reader, and {NIST ASD
-  Team}]{NIST}
-Y.~Ralchenko, A.~Kramida, J.~Reader and {NIST ASD Team}, \emph{National
-  Institute of Standards and Technology, Gaithersburg, MD}, 2017\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Janzen and Aziz(1997)]{Janzen:1997hv}
-A.~R. Janzen and R.~A. Aziz, \emph{The Journal of Chemical Physics}, 1997,
-  \textbf{107}, 914--919\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
 \bibitem[Dalfovo \emph{et~al.}(1995)Dalfovo, Lastri, Pricaupenko, Stringari,
   and Treiner]{Dalfovo:1995gf}
 F.~Dalfovo, A.~Lastri, L.~Pricaupenko, S.~Stringari and J.~Treiner,
@@ -135,10 +120,25 @@ P.~Maierhofer, M.~Bainschab, B.~Thaler, P.~Heim, W.~E. Ernst and M.~Koch,
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[Ralchenko \emph{et~al.}(2017)Ralchenko, Kramida, Reader, and {NIST ASD
+  Team}]{NIST}
+Y.~Ralchenko, A.~Kramida, J.~Reader and {NIST ASD Team}, \emph{National
+  Institute of Standards and Technology, Gaithersburg, MD}, 2017\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Koch \emph{et~al.}(2017)Koch, Heim, Thaler, Kitzler, and
   Ernst]{koch2017direct}
 M.~Koch, P.~Heim, B.~Thaler, M.~Kitzler and W.~Ernst, \emph{Journal of Physics
   B: Atomic, Molecular and Optical Physics}, 2017\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Janzen and Aziz(1997)]{Janzen:1997hv}
+A.~R. Janzen and R.~A. Aziz, \emph{The Journal of Chemical Physics}, 1997,
+  \textbf{107}, 914--919\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
